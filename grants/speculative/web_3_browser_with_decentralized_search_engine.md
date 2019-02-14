@@ -30,7 +30,9 @@ cyber development OJSC
 ## Team's experience
 As a team we exist for 1,5 years. Till this time we've implement working concept of first decentralized search engine on a blockchain. Secondly, we've implement concept of web3 browser according to our [vision](https://github.com/cybercongress/cyb/blob/master/docs/web3-vision.md) and finally we've launch in mainnet ethereum database. We call it Chaingear.
 
-Earlier part of our team (@xhipster and @litvintech) launched russian analog of steemit - Golos.io.  
+Earlier part of our team (@xhipster and @litvintech) launched Golos - russian analog of Steem which is [working](https://golos.io) and [imporoving](https://github.com/GolosChain)
+
+@xhipster also is co-creator of [cyber.fund](http://cyber.fund) and satoshi.fund
 
 
 ## Team Code Repos
