@@ -1,11 +1,11 @@
 # Web3 browser with decentralized search engine
 
 ## Project Description
-Working concept of decentralized search engine with web3 browser. At this time search engine has implemented on Cosmos SDK. Web3 browser based on electron shell. Briefly, chain store knowledge graph with bonds between ipfs CID keys and ipfs CID values. User can search and improve relevant answers by clicking current answer. Content creater can link his content with some key. Then stronger bond between keys and value, the higher answer in search results.
+The working concept of a decentralized search engine with a web3 browser. At this time search engine has implemented on Cosmos SDK. Web3 browser based on electron shell. Briefly, chain store knowledge graph with bonds between ipfs CID keys and ipfs CID values. The user can search and improve relevant answers by clicking the current answer. Content creators can link their content with some key. A then a stronger bond between keys and value, the higher answer in search results.
 
-The problems of creating a decentralized search engine are related to the problems that the [decentralized Internet should solve](https://steemit.com/web3/@hipster/an-idea-of-decentralized-search-for-web3-ce860d61defe5est). Transparency, access, motivation, centralized control, unilateral trust, censorship, security
+The problems of creating a decentralized search engine are related to the problems that the [decentralized Internet should solve](https://steemit.com/web3/@hipster/an-idea-of-decentralized-search-for-web3-ce860d61defe5est). Transparency, access, motivation, centralized control, unilateral trust, censorship, security.
 
-According to our [roadmap](https://github.com/cybercongress/cyberd/blob/master/docs/cyberd.md#cyber-protocol-at-euler) we intend to examine another ways for implementing our blockchain on another platforms as Substrate. In addition we want to integrate another blockchain systems in our web3 browser as Polkadot.
+According to our [roadmap](https://github.com/cybercongress/cyberd/blob/master/docs/cyberd.md#cyber-protocol-at-euler), we intend to examine another way for implementing our blockchain on other platforms as Substrate. In addition, we want to integrate other blockchain systems in our web3 browser as Polkadot.
 
 As residents of Eastern Europe and Russia, we are faced with an acute problem of [content censoring](https://www.theguardian.com/world/2019/feb/12/great-firewall-fears-as-russia-plans-to-cut-itself-off-from-internet), as well as the privacy of personal data. According to the team members, decentralized Internet and search for today is the only way to preserve individual freedom in the Internet space.
 
@@ -39,15 +39,16 @@ Earlier part of our team (@xhipster and @litvintech) launched Golos - russian an
 
 ## Development Roadmap
 
-For now already implemented our first public testnet Euler with associated releases of Cyb and Chaingear.
+For now, already implemented our first public testnet Euler with associated releases of Cyb and Chaingear.
 
-* Q2 2019. Testnet Smith. Implementation of new blockchain systems in web3 browser and debugging interaction algorithms. As result at least one implemented blockchain in Cyb apart from Ethereum and cyberd and an established pattern of new chains implementation.
+* Q2 2019. Testnet Smith. Integration of new blockchain systems in a web3 browser and debugging interaction algorithms. As a result, cyb will become to the multichain browser (3 or more chains integrated) and 
+will be developed an established pattern of new chains integration.
 
-* Q3 2019. Testnet Darwin. Alternative platform for our blockchain implementation. As result: improved working concept of cyberd blockchain.
+* Q3 2019. Testnet Darwin. Alternative platform for our blockchain implementation. As result: the improved working concept of the cyberd blockchain.
 
-For Smith testnet we need 500 ETH, for Darwin - 700 ETH.
+For Smith testnet, we need 500 ETH, for Darwin - 700 ETH.
 
-We start attempt to a self-sustained virtuous process but this is not easy at this time. So we intend to a self-sustained virtuous process after 6 months.  
+We've start to attempt to a self-sustained virtuous process but this is not easy at this time. So we intend to a self-sustained virtuous process after 6 months.  
 
 
 ## Licensing
@@ -56,6 +57,6 @@ License: Cyber License. Don’t believe, don’t fear, don’t ask.
 
 ## Additional Information
 
-Still development was funded by team members. Unfortunately we've exhausted all funds but still trust in our project.
+Still, development was funded by team members. Unfortunately we've exhausted all funds but still, trust in our project.
 
-Lets build web3 together.
+Let's build web3 together.
