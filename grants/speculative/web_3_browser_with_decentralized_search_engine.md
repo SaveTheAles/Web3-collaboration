@@ -24,9 +24,6 @@ As residents of Eastern Europe and Russia, we are faced with an acute problem of
 ## Team Website
 * https://cybercongress.ai
 
-## Legal Structure
-cyber development OJSC
-
 ## Team's experience
 As a team we exist for 1,5 years. Till this time we've implement working concept of first decentralized search engine on a blockchain. Secondly, we've implement concept of web3 browser according to our [vision](https://github.com/cybercongress/cyb/blob/master/docs/web3-vision.md) and finally we've launch in mainnet ethereum database. We call it Chaingear.
 
